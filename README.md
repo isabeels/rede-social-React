@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  alt="VS Code" />
   </a>
   </p>
-  
+  <br />
 <h3 align="center"> Status do Projeto </h3>
   <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONSTRUINDO...&color=GREEN&style=for-the-badge"/>
